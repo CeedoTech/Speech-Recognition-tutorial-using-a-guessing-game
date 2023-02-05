@@ -1,5 +1,5 @@
 # Speech-Recognition-tutorial-using-a-guessing-game
-## The tutorial sourse is from :
+## The tutorial source is from :
 
 This repository contains resources from The Ultimate Guide to Speech Recognition with Python tutorial on Real Python.
 
